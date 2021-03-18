@@ -1,0 +1,7 @@
+{
+    "type": "ESP_HOME",
+    "version": 2,
+    "host": "raw.githubusercontent.com",
+    "port": 443,
+    "bin": "/DeltaC6/OTA_FW/master/ESP32_Test_OTA/FW_FOTA.bin"
+}
